@@ -1,1 +1,1 @@
-For documentation, please visit [the docs page](http://docs.fluentd.org)
+To see documentation, please click [here](http://docs.fluentd.org)
